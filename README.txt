@@ -1,6 +1,5 @@
 Digital Mentor Book — Sreenidhi Institute of Science & Technology (SNIST)
 
-Localhost: http://localhost:3000
 
 Official Listed Branches (from SNIST Examination Timetable):
 1. DATA SCIENCE (CSE)
